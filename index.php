@@ -84,7 +84,7 @@
   <!-- footer -->
   <footer class="container text-center">
     <ul class="nav nav-pills pull-right">
-      <li>FaceClone - Made by Soumyadip sasmal</li>
+      <li>FaceClone - Made by Soumyadip Sasmal</li>
     </ul>
   </footer>
   <!-- ./footer -->
